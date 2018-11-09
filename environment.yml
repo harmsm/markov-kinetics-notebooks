@@ -1,0 +1,7 @@
+name: markov-kinetics-notebooks
+dependencies:
+  - python
+  - pip:
+    - numpy
+    - scipy
+    - matplotlib
