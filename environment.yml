@@ -3,5 +3,4 @@ dependencies:
   - python
   - pip:
     - numpy
-    - scipy
     - matplotlib
